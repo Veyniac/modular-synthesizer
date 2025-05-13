@@ -40,5 +40,5 @@ are fully on, notes that are "allowed" are dimmed, and notes that are not allowe
 - KiCad .sch schematic file
 - Circuit diagram .pdf file
 - *I am not including PCB files at this time, as my system is 2U and would require extensive rework to fit in a traditional Eurorack
-  system. You will have to make your own for now.
+  system. You will have to make your own for now, but I tried to make it easier for you by including the .sch file.
 
