@@ -257,7 +257,7 @@ int main(void){
 			break;
 		}
 		TIM16->CCR1 = map(output,0,4095,0,999); //control duty cycle of indicator LED
-		MCP4725_Write((4095-output),false); //write output value
+		MCP4725_Write(output,false); //write output value
 		last_t = t;
 		last_t_relative = t_relative;
 	}
