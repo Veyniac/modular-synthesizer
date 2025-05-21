@@ -7,6 +7,8 @@ I have not included PCB files for any of the modules, as my system is 2U and wou
 Eurorack system. However, I have included annotated schematics, code, and the KiCad .sch files for each module, which should be enough for
 you to make your own version of one of my designs.
 
+You can see more pictures on my [portfolio site](https://sites.google.com/view/eerkesportfolio/modular-synthesizer).
+
 ## Current modules:
 - Clock
 - CV+Gate Sequencer
