@@ -20,7 +20,7 @@ The push button LEDs automatically show the chosen scale and which notes are bei
 are fully on, notes that are "allowed" are dimmed, and notes that are not allowed are fully off.
 
 ## Module Information
-### Features:
+### Features
 - 3 inputs, 3 outputs
 - 12 TET, V/oct tuning
 - 0-5V input range
@@ -32,7 +32,7 @@ are fully on, notes that are "allowed" are dimmed, and notes that are not allowe
 - RC low-pass filters on inputs
 - Digital input filtering
 
-### Power Requirements: 
+### Power Requirements
 ~60mA +5V
 
 ### Files
