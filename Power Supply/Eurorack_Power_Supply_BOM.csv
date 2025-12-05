@@ -1,0 +1,20 @@
+Reference,Part,Value/color,Size/Package,Qty,Notes,Digikey
+"C1,C2",Electrolytic Capacitor,47uF 50V,2.5mm pitch,2,,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECE-A1EKA470I/302561
+"C3,C8,C9,C10,C11",Ceramic Capacitor,0.1uF 50V,2.5mm pitch,5,,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K15X7RF5TL2/286538
+"C4,C5,C6,C7",Electrolytic Capacitor,1000uF 25V,5mm pitch,4,,https://www.digikey.com/en/products/detail/rubycon/25PX1000MEFCT810X16/3134863
+D1,Diode,1N4001,DO-41,1,,https://www.digikey.com/en/products/detail/comchip-technology/1N4001-G/1979654
+"D2,D3,D4,D5",LED,Red,3mm,1,Can be any color you like,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/151031SS06000/4489982
+F1,Glass fuse,"5A, slow blow",5x20mm,1,Increase at your own risk,https://www.digikey.com/en/products/detail/littelfuse-inc/0218005-MXP/777604
+,Fuse holder,,5x20mm,1,,https://www.digikey.com/en/products/detail/schurter-inc/0031-8201/669925
+J1,Barrel jack,-,2.1x5.5mm,1,Use whatever power connector you like,https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/EJ501A/2439531
+J2-21,16-pin shrouded header,-,-,20,,https://www.digikey.com/en/products/detail/sullins-connector-solutions/SBH11-PBPC-D08-ST-BK/1990064
+R1,Resistor,2k 5% 1/4W,2.4x6.3mm axial,1,,https://www.digikey.com/en/products/detail/yageo/MFR-25FRF52-2K/14920
+"R2,R3,R4",Resistor,3.3k 5% 1/4W,2.4x6.3mm axial,3,,https://www.digikey.com/en/products/detail/yageo/MFR-25FBF52-3K3/9138148
+"RV1,RV2,RV3,RV4",Potentiometer,500k,PT-6,4,Optional (for voltage adjustment),https://www.digikey.com/en/products/detail/amphenol-piher-sensing-systems/PT6KV-504A2020/13244309
+SW1,Switch,SPST,-,1,Optional (Pick your favorite switch!),-
+"TP1,TP3,TP5,TP7",Test point,Black,Keystone 5001,4,Optional,https://www.digikey.com/en/products/detail/keystone-electronics/5001/255327
+"TP2,TP4,TP6,TP8",Test point,Red,Keystone 5000,4,Optional,https://www.digikey.com/en/products/detail/keystone-electronics/5000/255326
+U1,DC-DC converter,5V 30W,SKMW30F-5,1,Alternate: REC30E-2405SZ,https://www.digikey.com/en/products/detail/mean-well-usa-inc/SKMW30F-05/7706818
+"U2,U3,U4",DC-DC converter,12V 30W,SKMW30F-12,3,Alternate: REC30E-2412SZ,https://www.digikey.com/en/products/detail/mean-well-usa-inc/SKMW30F-12/7706819
+N/A,Wall wart,"9-36V, 5.5W",NGE90U15-P1J,1,"This is the wall power supply I used to power the board, but you can choose your own",https://www.digikey.com/en/products/detail/mean-well-usa-inc/NGE90U15-P1J/22216892
+N/A,Wires,-,20 AWG or thicker,-,To hook up the switch and barrel jack,
