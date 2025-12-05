@@ -16,5 +16,6 @@ SW1,Switch,SPST,-,1,Optional (Pick your favorite switch!),-
 "TP2,TP4,TP6,TP8",Test point,Red,Keystone 5000,4,Optional,https://www.digikey.com/en/products/detail/keystone-electronics/5000/255326
 U1,DC-DC converter,5V 30W,SKMW30F-5,1,Alternate: REC30E-2405SZ,https://www.digikey.com/en/products/detail/mean-well-usa-inc/SKMW30F-05/7706818
 "U2,U3,U4",DC-DC converter,12V 30W,SKMW30F-12,3,Alternate: REC30E-2412SZ,https://www.digikey.com/en/products/detail/mean-well-usa-inc/SKMW30F-12/7706819
-N/A,Wall wart,"9-36V, 5.5W",NGE90U15-P1J,1,"This is the wall power supply I used to power the board, but you can choose your own",https://www.digikey.com/en/products/detail/mean-well-usa-inc/NGE90U15-P1J/22216892
+N/A,Wall wart,"9-36V, 5.5A, 65W",NGE90U15-P1J,1,"This is the wall power supply I used to power the board, but you can choose your own",https://www.digikey.com/en/products/detail/mean-well-usa-inc/NGE90U15-P1J/22216892
 N/A,Wires,-,20 AWG or thicker,-,To hook up the switch and barrel jack,
+
